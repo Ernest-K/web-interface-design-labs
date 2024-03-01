@@ -1,2 +1,2 @@
 # web-interface-design-labs
-Repository created for web interface design course
+Ernest Kleczewski 264019 wtorek (nieparzyste) 13:15 - 15:00
